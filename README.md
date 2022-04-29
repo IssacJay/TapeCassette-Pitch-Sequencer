@@ -2,6 +2,8 @@
 Pulse Width Modulation Motor controller for Cassette Machines, using a raspberry Pi Pico. 
 https://youtu.be/hcBXBUudQDU
 
+[![Beans on Toast](https://i3.ytimg.com/vi/hcBXBUudQDU/maxresdefault.jpg )](https://youtu.be/hcBXBUudQDU "Tape Machine Pitch Sequencer | Tascam Porta 02 and Raspberry Pi Pico")
+
 OVERVIEW:
 
 This directory is a series of Micropython files used to create an 8 Step Pitch and Volume Gate sequencer for any cassette machine, using a Raspberry Pi Pico. The full tutorial is available here: 
