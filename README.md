@@ -7,9 +7,9 @@ https://www.instructables.com/Pitch-Sequencer-for-Tascam-Porta-02-PWM-Microcontr
 
 MATERIALS
 Basic materials list needed for the build:
-Raspberry Pi Pico 
-Rotary Encoder KY-040
-OLED SSD-1306 ~ £4
+Raspberry Pi Pico - 
+Rotary Encoder KY-040 - 
+OLED SSD-1306 - 
 2N7000 N-Channel MOSFET
 
 GETTING STARTED
