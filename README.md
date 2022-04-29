@@ -1,5 +1,6 @@
 # Tape Cassette Pitch Sequencer
 Pulse Width Modulation Motor controller for Cassette Machines, using a raspberry Pi Pico. 
+https://youtu.be/hcBXBUudQDU
 
 OVERVIEW:
 
